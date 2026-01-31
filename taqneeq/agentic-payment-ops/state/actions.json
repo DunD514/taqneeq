@@ -1,0 +1,514 @@
+{
+  "latest": {
+    "action_type": "suppress",
+    "target": "heavy_path",
+    "risk_score": 0.42,
+    "reason": "Temporarily suppress heavy path during latency spike",
+    "reasoning": "Hypothesis: Latency_Spike (confidence=0.75, source=heuristic). Latency spike; proposing temporary suppression.",
+    "executed": true,
+    "message": "Executed: suppress target=heavy_path",
+    "ts": 1769866026.45479
+  },
+  "history": [
+    {
+      "action_type": "no_op",
+      "target": null,
+      "risk_score": 0.0,
+      "reason": "No intervention needed",
+      "reasoning": "Hypothesis: Unknown (confidence=0.00, source=heuristic). Confidence below threshold; no action.",
+      "executed": false,
+      "message": "No intervention needed",
+      "ts": 1769865492.6354413
+    },
+    {
+      "action_type": "reroute",
+      "target": "AXIS",
+      "risk_score": 0.363,
+      "reason": "Reroute traffic from degraded issuer AXIS",
+      "reasoning": "Hypothesis: Issuer_AXIS_Degradation (confidence=0.85, source=heuristic). Degraded issuer detected; proposing reroute from AXIS.",
+      "executed": true,
+      "message": "Executed: reroute target=AXIS",
+      "ts": 1769865493.68068
+    },
+    {
+      "action_type": "reroute",
+      "target": "AXIS",
+      "risk_score": 0.363,
+      "reason": "Reroute traffic from degraded issuer AXIS",
+      "reasoning": "Hypothesis: Issuer_AXIS_Degradation (confidence=0.85, source=heuristic). Degraded issuer detected; proposing reroute from AXIS.",
+      "executed": true,
+      "message": "Executed: reroute target=AXIS",
+      "ts": 1769865494.719502
+    },
+    {
+      "action_type": "no_op",
+      "target": null,
+      "risk_score": 0.0,
+      "reason": "No intervention needed",
+      "reasoning": "Hypothesis: Unknown (confidence=0.00, source=heuristic). Confidence below threshold; no action.",
+      "executed": false,
+      "message": "No intervention needed",
+      "ts": 1769865495.7647595
+    },
+    {
+      "action_type": "no_op",
+      "target": null,
+      "risk_score": 0.0,
+      "reason": "No intervention needed",
+      "reasoning": "Hypothesis: Unknown (confidence=0.00, source=heuristic). Confidence below threshold; no action.",
+      "executed": false,
+      "message": "No intervention needed",
+      "ts": 1769865496.8093596
+    },
+    {
+      "action_type": "no_op",
+      "target": null,
+      "risk_score": 0.0,
+      "reason": "No intervention needed",
+      "reasoning": "Hypothesis: Unknown (confidence=0.00, source=heuristic). Confidence below threshold; no action.",
+      "executed": false,
+      "message": "No intervention needed",
+      "ts": 1769865498.98136
+    },
+    {
+      "action_type": "no_op",
+      "target": null,
+      "risk_score": 0.0,
+      "reason": "No intervention needed",
+      "reasoning": "Hypothesis: Unknown (confidence=0.00, source=heuristic). Confidence below threshold; no action.",
+      "executed": false,
+      "message": "No intervention needed",
+      "ts": 1769865500.0160322
+    },
+    {
+      "action_type": "no_op",
+      "target": null,
+      "risk_score": 0.0,
+      "reason": "No intervention needed",
+      "reasoning": "Hypothesis: Unknown (confidence=0.00, source=heuristic). Confidence below threshold; no action.",
+      "executed": false,
+      "message": "No intervention needed",
+      "ts": 1769865501.0514722
+    },
+    {
+      "action_type": "no_op",
+      "target": null,
+      "risk_score": 0.0,
+      "reason": "No intervention needed",
+      "reasoning": "Hypothesis: Unknown (confidence=0.00, source=heuristic). Confidence below threshold; no action.",
+      "executed": false,
+      "message": "No intervention needed",
+      "ts": 1769865502.0923874
+    },
+    {
+      "action_type": "no_op",
+      "target": null,
+      "risk_score": 0.0,
+      "reason": "No intervention needed",
+      "reasoning": "Hypothesis: Unknown (confidence=0.00, source=heuristic). Confidence below threshold; no action.",
+      "executed": false,
+      "message": "No intervention needed",
+      "ts": 1769865503.1295807
+    },
+    {
+      "action_type": "reroute",
+      "target": "AXIS",
+      "risk_score": 0.363,
+      "reason": "Reroute traffic from degraded issuer AXIS",
+      "reasoning": "Hypothesis: Issuer_AXIS_Degradation (confidence=0.85, source=heuristic). Degraded issuer detected; proposing reroute from AXIS.",
+      "executed": true,
+      "message": "Executed: reroute target=AXIS",
+      "ts": 1769865504.1675096
+    },
+    {
+      "action_type": "reroute",
+      "target": "AXIS",
+      "risk_score": 0.363,
+      "reason": "Reroute traffic from degraded issuer AXIS",
+      "reasoning": "Hypothesis: Issuer_AXIS_Degradation (confidence=0.85, source=heuristic). Degraded issuer detected; proposing reroute from AXIS.",
+      "executed": true,
+      "message": "Executed: reroute target=AXIS",
+      "ts": 1769865505.206435
+    },
+    {
+      "action_type": "no_op",
+      "target": null,
+      "risk_score": 0.0,
+      "reason": "No intervention needed",
+      "reasoning": "Hypothesis: Unknown (confidence=0.00, source=heuristic). Confidence below threshold; no action.",
+      "executed": false,
+      "message": "No intervention needed",
+      "ts": 1769865506.245226
+    },
+    {
+      "action_type": "no_op",
+      "target": null,
+      "risk_score": 0.0,
+      "reason": "No intervention needed",
+      "reasoning": "Hypothesis: Unknown (confidence=0.00, source=heuristic). Confidence below threshold; no action.",
+      "executed": false,
+      "message": "No intervention needed",
+      "ts": 1769865507.2891412
+    },
+    {
+      "action_type": "no_op",
+      "target": null,
+      "risk_score": 0.0,
+      "reason": "No intervention needed",
+      "reasoning": "Hypothesis: Unknown (confidence=0.00, source=heuristic). Confidence below threshold; no action.",
+      "executed": false,
+      "message": "No intervention needed",
+      "ts": 1769865509.4576066
+    },
+    {
+      "action_type": "no_op",
+      "target": null,
+      "risk_score": 0.0,
+      "reason": "No intervention needed",
+      "reasoning": "Hypothesis: Unknown (confidence=0.00, source=heuristic). Confidence below threshold; no action.",
+      "executed": false,
+      "message": "No intervention needed",
+      "ts": 1769865510.4957187
+    },
+    {
+      "action_type": "no_op",
+      "target": null,
+      "risk_score": 0.0,
+      "reason": "No intervention needed",
+      "reasoning": "Hypothesis: Unknown (confidence=0.00, source=heuristic). Confidence below threshold; no action.",
+      "executed": false,
+      "message": "No intervention needed",
+      "ts": 1769865511.5330284
+    },
+    {
+      "action_type": "no_op",
+      "target": null,
+      "risk_score": 0.0,
+      "reason": "No intervention needed",
+      "reasoning": "Hypothesis: Unknown (confidence=0.00, source=heuristic). Confidence below threshold; no action.",
+      "executed": false,
+      "message": "No intervention needed",
+      "ts": 1769865512.5731256
+    },
+    {
+      "action_type": "no_op",
+      "target": null,
+      "risk_score": 0.0,
+      "reason": "No intervention needed",
+      "reasoning": "Hypothesis: Unknown (confidence=0.00, source=heuristic). Confidence below threshold; no action.",
+      "executed": false,
+      "message": "No intervention needed",
+      "ts": 1769865513.615519
+    },
+    {
+      "action_type": "reroute",
+      "target": "AXIS",
+      "risk_score": 0.363,
+      "reason": "Reroute traffic from degraded issuer AXIS",
+      "reasoning": "Hypothesis: Issuer_AXIS_Degradation (confidence=0.85, source=heuristic). Degraded issuer detected; proposing reroute from AXIS.",
+      "executed": true,
+      "message": "Executed: reroute target=AXIS",
+      "ts": 1769865514.6559756
+    },
+    {
+      "action_type": "reroute",
+      "target": "AXIS",
+      "risk_score": 0.363,
+      "reason": "Reroute traffic from degraded issuer AXIS",
+      "reasoning": "Hypothesis: Issuer_AXIS_Degradation (confidence=0.85, source=heuristic). Degraded issuer detected; proposing reroute from AXIS.",
+      "executed": true,
+      "message": "Executed: reroute target=AXIS",
+      "ts": 1769865515.6960526
+    },
+    {
+      "action_type": "no_op",
+      "target": null,
+      "risk_score": 0.0,
+      "reason": "No intervention needed",
+      "reasoning": "Hypothesis: Unknown (confidence=0.00, source=heuristic). Confidence below threshold; no action.",
+      "executed": false,
+      "message": "No intervention needed",
+      "ts": 1769865516.7341506
+    },
+    {
+      "action_type": "no_op",
+      "target": null,
+      "risk_score": 0.0,
+      "reason": "No intervention needed",
+      "reasoning": "Hypothesis: Unknown (confidence=0.00, source=heuristic). Confidence below threshold; no action.",
+      "executed": false,
+      "message": "No intervention needed",
+      "ts": 1769865517.7757711
+    },
+    {
+      "action_type": "no_op",
+      "target": null,
+      "risk_score": 0.0,
+      "reason": "No intervention needed",
+      "reasoning": "Hypothesis: Unknown (confidence=0.00, source=heuristic). Confidence below threshold; no action.",
+      "executed": false,
+      "message": "No intervention needed",
+      "ts": 1769865519.9489822
+    },
+    {
+      "action_type": "no_op",
+      "target": null,
+      "risk_score": 0.0,
+      "reason": "No intervention needed",
+      "reasoning": "Hypothesis: Unknown (confidence=0.00, source=heuristic). Confidence below threshold; no action.",
+      "executed": false,
+      "message": "No intervention needed",
+      "ts": 1769865520.9820962
+    },
+    {
+      "action_type": "no_op",
+      "target": null,
+      "risk_score": 0.0,
+      "reason": "No intervention needed",
+      "reasoning": "Hypothesis: Unknown (confidence=0.00, source=heuristic). Confidence below threshold; no action.",
+      "executed": false,
+      "message": "No intervention needed",
+      "ts": 1769865522.0202188
+    },
+    {
+      "action_type": "no_op",
+      "target": null,
+      "risk_score": 0.0,
+      "reason": "No intervention needed",
+      "reasoning": "Hypothesis: Unknown (confidence=0.00, source=heuristic). Confidence below threshold; no action.",
+      "executed": false,
+      "message": "No intervention needed",
+      "ts": 1769865523.067308
+    },
+    {
+      "action_type": "no_op",
+      "target": null,
+      "risk_score": 0.0,
+      "reason": "No intervention needed",
+      "reasoning": "Hypothesis: Unknown (confidence=0.00, source=heuristic). Confidence below threshold; no action.",
+      "executed": false,
+      "message": "No intervention needed",
+      "ts": 1769865524.1134834
+    },
+    {
+      "action_type": "reroute",
+      "target": "AXIS",
+      "risk_score": 0.363,
+      "reason": "Reroute traffic from degraded issuer AXIS",
+      "reasoning": "Hypothesis: Issuer_AXIS_Degradation (confidence=0.85, source=heuristic). Degraded issuer detected; proposing reroute from AXIS.",
+      "executed": true,
+      "message": "Executed: reroute target=AXIS",
+      "ts": 1769865525.1555314
+    },
+    {
+      "action_type": "reroute",
+      "target": "AXIS",
+      "risk_score": 0.363,
+      "reason": "Reroute traffic from degraded issuer AXIS",
+      "reasoning": "Hypothesis: Issuer_AXIS_Degradation (confidence=0.85, source=heuristic). Degraded issuer detected; proposing reroute from AXIS.",
+      "executed": true,
+      "message": "Executed: reroute target=AXIS",
+      "ts": 1769865526.196541
+    },
+    {
+      "action_type": "no_op",
+      "target": null,
+      "risk_score": 0.0,
+      "reason": "No intervention needed",
+      "reasoning": "Hypothesis: Unknown (confidence=0.00, source=heuristic). Confidence below threshold; no action.",
+      "executed": false,
+      "message": "No intervention needed",
+      "ts": 1769865527.2363951
+    },
+    {
+      "action_type": "no_op",
+      "target": null,
+      "risk_score": 0.0,
+      "reason": "No intervention needed",
+      "reasoning": "Hypothesis: Unknown (confidence=0.00, source=heuristic). Confidence below threshold; no action.",
+      "executed": false,
+      "message": "No intervention needed",
+      "ts": 1769865528.2749221
+    },
+    {
+      "action_type": "no_op",
+      "target": null,
+      "risk_score": 0.0,
+      "reason": "No intervention needed",
+      "reasoning": "Hypothesis: Unknown (confidence=0.00, source=heuristic). Confidence below threshold; no action.",
+      "executed": false,
+      "message": "No intervention needed",
+      "ts": 1769865530.462455
+    },
+    {
+      "action_type": "no_op",
+      "target": null,
+      "risk_score": 0.0,
+      "reason": "No intervention needed",
+      "reasoning": "Hypothesis: Unknown (confidence=0.00, source=heuristic). Confidence below threshold; no action.",
+      "executed": false,
+      "message": "No intervention needed",
+      "ts": 1769865531.4973762
+    },
+    {
+      "action_type": "no_op",
+      "target": null,
+      "risk_score": 0.0,
+      "reason": "No intervention needed",
+      "reasoning": "Hypothesis: Unknown (confidence=0.00, source=heuristic). Confidence below threshold; no action.",
+      "executed": false,
+      "message": "No intervention needed",
+      "ts": 1769865532.5324864
+    },
+    {
+      "action_type": "no_op",
+      "target": null,
+      "risk_score": 0.0,
+      "reason": "No intervention needed",
+      "reasoning": "Hypothesis: Unknown (confidence=0.00, source=heuristic). Confidence below threshold; no action.",
+      "executed": false,
+      "message": "No intervention needed",
+      "ts": 1769865533.5692112
+    },
+    {
+      "action_type": "no_op",
+      "target": null,
+      "risk_score": 0.0,
+      "reason": "No intervention needed",
+      "reasoning": "Hypothesis: Unknown (confidence=0.00, source=heuristic). Confidence below threshold; no action.",
+      "executed": false,
+      "message": "No intervention needed",
+      "ts": 1769865534.6105413
+    },
+    {
+      "action_type": "reroute",
+      "target": "AXIS",
+      "risk_score": 0.363,
+      "reason": "Reroute traffic from degraded issuer AXIS",
+      "reasoning": "Hypothesis: Issuer_AXIS_Degradation (confidence=0.85, source=heuristic). Degraded issuer detected; proposing reroute from AXIS.",
+      "executed": true,
+      "message": "Executed: reroute target=AXIS",
+      "ts": 1769865535.6485732
+    },
+    {
+      "action_type": "reroute",
+      "target": "AXIS",
+      "risk_score": 0.363,
+      "reason": "Reroute traffic from degraded issuer AXIS",
+      "reasoning": "Hypothesis: Issuer_AXIS_Degradation (confidence=0.85, source=heuristic). Degraded issuer detected; proposing reroute from AXIS.",
+      "executed": true,
+      "message": "Executed: reroute target=AXIS",
+      "ts": 1769865536.6892273
+    },
+    {
+      "action_type": "no_op",
+      "target": null,
+      "risk_score": 0.0,
+      "reason": "No intervention needed",
+      "reasoning": "Hypothesis: Unknown (confidence=0.00, source=heuristic). Confidence below threshold; no action.",
+      "executed": false,
+      "message": "No intervention needed",
+      "ts": 1769865537.726484
+    },
+    {
+      "action_type": "no_op",
+      "target": null,
+      "risk_score": 0.0,
+      "reason": "No intervention needed",
+      "reasoning": "Hypothesis: Unknown (confidence=0.00, source=heuristic). Confidence below threshold; no action.",
+      "executed": false,
+      "message": "No intervention needed",
+      "ts": 1769865538.768442
+    },
+    {
+      "action_type": "no_op",
+      "target": null,
+      "risk_score": 0.0,
+      "reason": "No intervention needed",
+      "reasoning": "Hypothesis: Unknown (confidence=0.00, source=heuristic). Confidence below threshold; no action.",
+      "executed": false,
+      "message": "No intervention needed",
+      "ts": 1769866017.059821
+    },
+    {
+      "action_type": "no_op",
+      "target": null,
+      "risk_score": 0.0,
+      "reason": "No intervention needed",
+      "reasoning": "Hypothesis: Unknown (confidence=0.00, source=heuristic). Confidence below threshold; no action.",
+      "executed": false,
+      "message": "No intervention needed",
+      "ts": 1769866017.923442
+    },
+    {
+      "action_type": "no_op",
+      "target": null,
+      "risk_score": 0.0,
+      "reason": "No intervention needed",
+      "reasoning": "Hypothesis: Unknown (confidence=0.00, source=heuristic). Confidence below threshold; no action.",
+      "executed": false,
+      "message": "No intervention needed",
+      "ts": 1769866018.0509708
+    },
+    {
+      "action_type": "no_op",
+      "target": null,
+      "risk_score": 0.0,
+      "reason": "No intervention needed",
+      "reasoning": "Hypothesis: Unknown (confidence=0.00, source=heuristic). Confidence below threshold; no action.",
+      "executed": false,
+      "message": "No intervention needed",
+      "ts": 1769866018.275785
+    },
+    {
+      "action_type": "reroute",
+      "target": "AXIS",
+      "risk_score": 0.363,
+      "reason": "Reroute traffic from degraded issuer AXIS",
+      "reasoning": "Hypothesis: Issuer_AXIS_Degradation (confidence=0.85, source=heuristic). Degraded issuer detected; proposing reroute from AXIS.",
+      "executed": true,
+      "message": "Executed: reroute target=AXIS",
+      "ts": 1769866021.019745
+    },
+    {
+      "action_type": "reroute",
+      "target": "AXIS",
+      "risk_score": 0.363,
+      "reason": "Reroute traffic from degraded issuer AXIS",
+      "reasoning": "Hypothesis: Issuer_AXIS_Degradation (confidence=0.85, source=heuristic). Degraded issuer detected; proposing reroute from AXIS.",
+      "executed": true,
+      "message": "Executed: reroute target=AXIS",
+      "ts": 1769866023.793878
+    },
+    {
+      "action_type": "reroute",
+      "target": "AXIS",
+      "risk_score": 0.363,
+      "reason": "Reroute traffic from degraded issuer AXIS",
+      "reasoning": "Hypothesis: Issuer_AXIS_Degradation (confidence=0.85, source=heuristic). Degraded issuer detected; proposing reroute from AXIS.",
+      "executed": true,
+      "message": "Executed: reroute target=AXIS",
+      "ts": 1769866025.443616
+    },
+    {
+      "action_type": "reroute",
+      "target": "AXIS",
+      "risk_score": 0.363,
+      "reason": "Reroute traffic from degraded issuer AXIS",
+      "reasoning": "Hypothesis: Issuer_AXIS_Degradation (confidence=0.85, source=heuristic). Degraded issuer detected; proposing reroute from AXIS.",
+      "executed": true,
+      "message": "Executed: reroute target=AXIS",
+      "ts": 1769866025.931408
+    },
+    {
+      "action_type": "suppress",
+      "target": "heavy_path",
+      "risk_score": 0.42,
+      "reason": "Temporarily suppress heavy path during latency spike",
+      "reasoning": "Hypothesis: Latency_Spike (confidence=0.75, source=heuristic). Latency spike; proposing temporary suppression.",
+      "executed": true,
+      "message": "Executed: suppress target=heavy_path",
+      "ts": 1769866026.45479
+    }
+  ]
+}
