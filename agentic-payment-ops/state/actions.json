@@ -1,0 +1,514 @@
+{
+  "latest": {
+    "action_type": "reroute",
+    "target": "SBI",
+    "risk_score": 0.363,
+    "reason": "Reroute traffic from degraded issuer SBI",
+    "reasoning": "Hypothesis: Issuer_SBI_Degradation (confidence=0.85, source=heuristic). Degraded issuer detected; proposing reroute from SBI.",
+    "executed": true,
+    "message": "Executed: reroute target=SBI",
+    "ts": 1769880713.4737027
+  },
+  "history": [
+    {
+      "action_type": "reroute",
+      "target": "SBI",
+      "risk_score": 0.363,
+      "reason": "Reroute traffic from degraded issuer SBI",
+      "reasoning": "Hypothesis: Issuer_SBI_Degradation (confidence=0.85, source=heuristic). Degraded issuer detected; proposing reroute from SBI.",
+      "executed": true,
+      "message": "Executed: reroute target=SBI",
+      "ts": 1769880261.511696
+    },
+    {
+      "action_type": "reroute",
+      "target": "SBI",
+      "risk_score": 0.363,
+      "reason": "Reroute traffic from degraded issuer SBI",
+      "reasoning": "Hypothesis: Issuer_SBI_Degradation (confidence=0.85, source=heuristic). Degraded issuer detected; proposing reroute from SBI.",
+      "executed": true,
+      "message": "Executed: reroute target=SBI",
+      "ts": 1769880270.1167479
+    },
+    {
+      "action_type": "reroute",
+      "target": "SBI",
+      "risk_score": 0.363,
+      "reason": "Reroute traffic from degraded issuer SBI",
+      "reasoning": "Hypothesis: Issuer_SBI_Degradation (confidence=0.85, source=heuristic). Degraded issuer detected; proposing reroute from SBI.",
+      "executed": true,
+      "message": "Executed: reroute target=SBI",
+      "ts": 1769880278.0781543
+    },
+    {
+      "action_type": "reroute",
+      "target": "SBI",
+      "risk_score": 0.363,
+      "reason": "Reroute traffic from degraded issuer SBI",
+      "reasoning": "Hypothesis: Issuer_SBI_Degradation (confidence=0.85, source=heuristic). Degraded issuer detected; proposing reroute from SBI.",
+      "executed": true,
+      "message": "Executed: reroute target=SBI",
+      "ts": 1769880287.398335
+    },
+    {
+      "action_type": "reroute",
+      "target": "SBI",
+      "risk_score": 0.363,
+      "reason": "Reroute traffic from degraded issuer SBI",
+      "reasoning": "Hypothesis: Issuer_SBI_Degradation (confidence=0.85, source=heuristic). Degraded issuer detected; proposing reroute from SBI.",
+      "executed": true,
+      "message": "Executed: reroute target=SBI",
+      "ts": 1769880307.872766
+    },
+    {
+      "action_type": "reroute",
+      "target": "SBI",
+      "risk_score": 0.363,
+      "reason": "Reroute traffic from degraded issuer SBI",
+      "reasoning": "Hypothesis: Issuer_SBI_Degradation (confidence=0.85, source=heuristic). Degraded issuer detected; proposing reroute from SBI.",
+      "executed": true,
+      "message": "Executed: reroute target=SBI",
+      "ts": 1769880329.095964
+    },
+    {
+      "action_type": "reroute",
+      "target": "SBI",
+      "risk_score": 0.363,
+      "reason": "Reroute traffic from degraded issuer SBI",
+      "reasoning": "Hypothesis: Issuer_SBI_Degradation (confidence=0.85, source=heuristic). Degraded issuer detected; proposing reroute from SBI.",
+      "executed": true,
+      "message": "Executed: reroute target=SBI",
+      "ts": 1769880347.2251027
+    },
+    {
+      "action_type": "reroute",
+      "target": "SBI",
+      "risk_score": 0.363,
+      "reason": "Reroute traffic from degraded issuer SBI",
+      "reasoning": "Hypothesis: Issuer_SBI_Degradation (confidence=0.85, source=heuristic). Degraded issuer detected; proposing reroute from SBI.",
+      "executed": true,
+      "message": "Executed: reroute target=SBI",
+      "ts": 1769880355.311359
+    },
+    {
+      "action_type": "reroute",
+      "target": "SBI",
+      "risk_score": 0.363,
+      "reason": "Reroute traffic from degraded issuer SBI",
+      "reasoning": "Hypothesis: Issuer_SBI_Degradation (confidence=0.85, source=heuristic). Degraded issuer detected; proposing reroute from SBI.",
+      "executed": true,
+      "message": "Executed: reroute target=SBI",
+      "ts": 1769880363.5124946
+    },
+    {
+      "action_type": "reroute",
+      "target": "SBI",
+      "risk_score": 0.363,
+      "reason": "Reroute traffic from degraded issuer SBI",
+      "reasoning": "Hypothesis: Issuer_SBI_Degradation (confidence=0.85, source=heuristic). Degraded issuer detected; proposing reroute from SBI.",
+      "executed": true,
+      "message": "Executed: reroute target=SBI",
+      "ts": 1769880368.525885
+    },
+    {
+      "action_type": "reroute",
+      "target": "SBI",
+      "risk_score": 0.363,
+      "reason": "Reroute traffic from degraded issuer SBI",
+      "reasoning": "Hypothesis: Issuer_SBI_Degradation (confidence=0.85, source=heuristic). Degraded issuer detected; proposing reroute from SBI.",
+      "executed": true,
+      "message": "Executed: reroute target=SBI",
+      "ts": 1769880374.7231395
+    },
+    {
+      "action_type": "reroute",
+      "target": "SBI",
+      "risk_score": 0.363,
+      "reason": "Reroute traffic from degraded issuer SBI",
+      "reasoning": "Hypothesis: Issuer_SBI_Degradation (confidence=0.85, source=heuristic). Degraded issuer detected; proposing reroute from SBI.",
+      "executed": true,
+      "message": "Executed: reroute target=SBI",
+      "ts": 1769880383.1342072
+    },
+    {
+      "action_type": "reroute",
+      "target": "SBI",
+      "risk_score": 0.363,
+      "reason": "Reroute traffic from degraded issuer SBI",
+      "reasoning": "Hypothesis: Issuer_SBI_Degradation (confidence=0.85, source=heuristic). Degraded issuer detected; proposing reroute from SBI.",
+      "executed": true,
+      "message": "Executed: reroute target=SBI",
+      "ts": 1769880391.4023097
+    },
+    {
+      "action_type": "reroute",
+      "target": "SBI",
+      "risk_score": 0.363,
+      "reason": "Reroute traffic from degraded issuer SBI",
+      "reasoning": "Hypothesis: Issuer_SBI_Degradation (confidence=0.85, source=heuristic). Degraded issuer detected; proposing reroute from SBI.",
+      "executed": true,
+      "message": "Executed: reroute target=SBI",
+      "ts": 1769880395.985636
+    },
+    {
+      "action_type": "reroute",
+      "target": "SBI",
+      "risk_score": 0.363,
+      "reason": "Reroute traffic from degraded issuer SBI",
+      "reasoning": "Hypothesis: Issuer_SBI_Degradation (confidence=0.85, source=heuristic). Degraded issuer detected; proposing reroute from SBI.",
+      "executed": true,
+      "message": "Executed: reroute target=SBI",
+      "ts": 1769880402.0671535
+    },
+    {
+      "action_type": "reroute",
+      "target": "SBI",
+      "risk_score": 0.363,
+      "reason": "Reroute traffic from degraded issuer SBI",
+      "reasoning": "Hypothesis: Issuer_SBI_Degradation (confidence=0.85, source=heuristic). Degraded issuer detected; proposing reroute from SBI.",
+      "executed": true,
+      "message": "Executed: reroute target=SBI",
+      "ts": 1769880410.16459
+    },
+    {
+      "action_type": "reroute",
+      "target": "KOTAK",
+      "risk_score": 0.363,
+      "reason": "Reroute traffic from degraded issuer KOTAK",
+      "reasoning": "Hypothesis: Issuer_KOTAK_Degradation (confidence=0.85, source=heuristic). Degraded issuer detected; proposing reroute from KOTAK.",
+      "executed": true,
+      "message": "Executed: reroute target=KOTAK",
+      "ts": 1769880426.6614027
+    },
+    {
+      "action_type": "reroute",
+      "target": "KOTAK",
+      "risk_score": 0.363,
+      "reason": "Reroute traffic from degraded issuer KOTAK",
+      "reasoning": "Hypothesis: Issuer_KOTAK_Degradation (confidence=0.85, source=heuristic). Degraded issuer detected; proposing reroute from KOTAK.",
+      "executed": true,
+      "message": "Executed: reroute target=KOTAK",
+      "ts": 1769880444.3285296
+    },
+    {
+      "action_type": "reroute",
+      "target": "KOTAK",
+      "risk_score": 0.363,
+      "reason": "Reroute traffic from degraded issuer KOTAK",
+      "reasoning": "Hypothesis: Issuer_KOTAK_Degradation (confidence=0.85, source=heuristic). Degraded issuer detected; proposing reroute from KOTAK.",
+      "executed": true,
+      "message": "Executed: reroute target=KOTAK",
+      "ts": 1769880452.4737155
+    },
+    {
+      "action_type": "reroute",
+      "target": "KOTAK",
+      "risk_score": 0.363,
+      "reason": "Reroute traffic from degraded issuer KOTAK",
+      "reasoning": "Hypothesis: Issuer_KOTAK_Degradation (confidence=0.85, source=heuristic). Degraded issuer detected; proposing reroute from KOTAK.",
+      "executed": true,
+      "message": "Executed: reroute target=KOTAK",
+      "ts": 1769880460.522354
+    },
+    {
+      "action_type": "reroute",
+      "target": "SBI",
+      "risk_score": 0.363,
+      "reason": "Reroute traffic from degraded issuer SBI",
+      "reasoning": "Hypothesis: Issuer_SBI_Degradation (confidence=0.85, source=heuristic). Degraded issuer detected; proposing reroute from SBI.",
+      "executed": true,
+      "message": "Executed: reroute target=SBI",
+      "ts": 1769880468.920444
+    },
+    {
+      "action_type": "reroute",
+      "target": "SBI",
+      "risk_score": 0.363,
+      "reason": "Reroute traffic from degraded issuer SBI",
+      "reasoning": "Hypothesis: Issuer_SBI_Degradation (confidence=0.85, source=heuristic). Degraded issuer detected; proposing reroute from SBI.",
+      "executed": true,
+      "message": "Executed: reroute target=SBI",
+      "ts": 1769880477.1092894
+    },
+    {
+      "action_type": "reroute",
+      "target": "SBI",
+      "risk_score": 0.363,
+      "reason": "Reroute traffic from degraded issuer SBI",
+      "reasoning": "Hypothesis: Issuer_SBI_Degradation (confidence=0.85, source=heuristic). Degraded issuer detected; proposing reroute from SBI.",
+      "executed": true,
+      "message": "Executed: reroute target=SBI",
+      "ts": 1769880485.23668
+    },
+    {
+      "action_type": "reroute",
+      "target": "SBI",
+      "risk_score": 0.363,
+      "reason": "Reroute traffic from degraded issuer SBI",
+      "reasoning": "Hypothesis: Issuer_SBI_Degradation (confidence=0.85, source=heuristic). Degraded issuer detected; proposing reroute from SBI.",
+      "executed": true,
+      "message": "Executed: reroute target=SBI",
+      "ts": 1769880493.8890412
+    },
+    {
+      "action_type": "reroute",
+      "target": "KOTAK",
+      "risk_score": 0.363,
+      "reason": "Reroute traffic from degraded issuer KOTAK",
+      "reasoning": "Hypothesis: Issuer_KOTAK_Degradation (confidence=0.85, source=heuristic). Degraded issuer detected; proposing reroute from KOTAK.",
+      "executed": true,
+      "message": "Executed: reroute target=KOTAK",
+      "ts": 1769880502.1692388
+    },
+    {
+      "action_type": "reroute",
+      "target": "KOTAK",
+      "risk_score": 0.363,
+      "reason": "Reroute traffic from degraded issuer KOTAK",
+      "reasoning": "Hypothesis: Issuer_KOTAK_Degradation (confidence=0.85, source=heuristic). Degraded issuer detected; proposing reroute from KOTAK.",
+      "executed": true,
+      "message": "Executed: reroute target=KOTAK",
+      "ts": 1769880510.441503
+    },
+    {
+      "action_type": "reroute",
+      "target": "KOTAK",
+      "risk_score": 0.363,
+      "reason": "Reroute traffic from degraded issuer KOTAK",
+      "reasoning": "Hypothesis: Issuer_KOTAK_Degradation (confidence=0.85, source=heuristic). Degraded issuer detected; proposing reroute from KOTAK.",
+      "executed": true,
+      "message": "Executed: reroute target=KOTAK",
+      "ts": 1769880518.645306
+    },
+    {
+      "action_type": "reroute",
+      "target": "KOTAK",
+      "risk_score": 0.363,
+      "reason": "Reroute traffic from degraded issuer KOTAK",
+      "reasoning": "Hypothesis: Issuer_KOTAK_Degradation (confidence=0.85, source=heuristic). Degraded issuer detected; proposing reroute from KOTAK.",
+      "executed": true,
+      "message": "Executed: reroute target=KOTAK",
+      "ts": 1769880526.7282305
+    },
+    {
+      "action_type": "suppress",
+      "target": "heavy_path",
+      "risk_score": 0.42,
+      "reason": "Temporarily suppress heavy path during latency spike",
+      "reasoning": "Hypothesis: Latency_Spike (confidence=0.75, source=heuristic). Latency spike; proposing temporary suppression.",
+      "executed": true,
+      "message": "Executed: suppress target=heavy_path",
+      "ts": 1769880530.5495334
+    },
+    {
+      "action_type": "reroute",
+      "target": "SBI",
+      "risk_score": 0.363,
+      "reason": "Reroute traffic from degraded issuer SBI",
+      "reasoning": "Hypothesis: Issuer_SBI_Degradation (confidence=0.85, source=heuristic). Degraded issuer detected; proposing reroute from SBI.",
+      "executed": true,
+      "message": "Executed: reroute target=SBI",
+      "ts": 1769880535.2794473
+    },
+    {
+      "action_type": "reroute",
+      "target": "KOTAK",
+      "risk_score": 0.363,
+      "reason": "Reroute traffic from degraded issuer KOTAK",
+      "reasoning": "Hypothesis: Issuer_KOTAK_Degradation (confidence=0.85, source=heuristic). Degraded issuer detected; proposing reroute from KOTAK.",
+      "executed": true,
+      "message": "Executed: reroute target=KOTAK",
+      "ts": 1769880543.2082374
+    },
+    {
+      "action_type": "reroute",
+      "target": "KOTAK",
+      "risk_score": 0.363,
+      "reason": "Reroute traffic from degraded issuer KOTAK",
+      "reasoning": "Hypothesis: Issuer_KOTAK_Degradation (confidence=0.85, source=heuristic). Degraded issuer detected; proposing reroute from KOTAK.",
+      "executed": true,
+      "message": "Executed: reroute target=KOTAK",
+      "ts": 1769880551.2879608
+    },
+    {
+      "action_type": "reroute",
+      "target": "KOTAK",
+      "risk_score": 0.363,
+      "reason": "Reroute traffic from degraded issuer KOTAK",
+      "reasoning": "Hypothesis: Issuer_KOTAK_Degradation (confidence=0.85, source=heuristic). Degraded issuer detected; proposing reroute from KOTAK.",
+      "executed": true,
+      "message": "Executed: reroute target=KOTAK",
+      "ts": 1769880559.3343701
+    },
+    {
+      "action_type": "reroute",
+      "target": "KOTAK",
+      "risk_score": 0.363,
+      "reason": "Reroute traffic from degraded issuer KOTAK",
+      "reasoning": "Hypothesis: Issuer_KOTAK_Degradation (confidence=0.85, source=heuristic). Degraded issuer detected; proposing reroute from KOTAK.",
+      "executed": true,
+      "message": "Executed: reroute target=KOTAK",
+      "ts": 1769880567.8588212
+    },
+    {
+      "action_type": "reroute",
+      "target": "KOTAK",
+      "risk_score": 0.363,
+      "reason": "Reroute traffic from degraded issuer KOTAK",
+      "reasoning": "Hypothesis: Issuer_KOTAK_Degradation (confidence=0.85, source=heuristic). Degraded issuer detected; proposing reroute from KOTAK.",
+      "executed": true,
+      "message": "Executed: reroute target=KOTAK",
+      "ts": 1769880576.031697
+    },
+    {
+      "action_type": "reroute",
+      "target": "KOTAK",
+      "risk_score": 0.363,
+      "reason": "Reroute traffic from degraded issuer KOTAK",
+      "reasoning": "Hypothesis: Issuer_KOTAK_Degradation (confidence=0.85, source=heuristic). Degraded issuer detected; proposing reroute from KOTAK.",
+      "executed": true,
+      "message": "Executed: reroute target=KOTAK",
+      "ts": 1769880584.4317656
+    },
+    {
+      "action_type": "reroute",
+      "target": "KOTAK",
+      "risk_score": 0.363,
+      "reason": "Reroute traffic from degraded issuer KOTAK",
+      "reasoning": "Hypothesis: Issuer_KOTAK_Degradation (confidence=0.85, source=heuristic). Degraded issuer detected; proposing reroute from KOTAK.",
+      "executed": true,
+      "message": "Executed: reroute target=KOTAK",
+      "ts": 1769880592.6354074
+    },
+    {
+      "action_type": "reroute",
+      "target": "KOTAK",
+      "risk_score": 0.363,
+      "reason": "Reroute traffic from degraded issuer KOTAK",
+      "reasoning": "Hypothesis: Issuer_KOTAK_Degradation (confidence=0.85, source=heuristic). Degraded issuer detected; proposing reroute from KOTAK.",
+      "executed": true,
+      "message": "Executed: reroute target=KOTAK",
+      "ts": 1769880601.1167104
+    },
+    {
+      "action_type": "reroute",
+      "target": "KOTAK",
+      "risk_score": 0.363,
+      "reason": "Reroute traffic from degraded issuer KOTAK",
+      "reasoning": "Hypothesis: Issuer_KOTAK_Degradation (confidence=0.85, source=heuristic). Degraded issuer detected; proposing reroute from KOTAK.",
+      "executed": true,
+      "message": "Executed: reroute target=KOTAK",
+      "ts": 1769880604.7350967
+    },
+    {
+      "action_type": "reroute",
+      "target": "KOTAK",
+      "risk_score": 0.363,
+      "reason": "Reroute traffic from degraded issuer KOTAK",
+      "reasoning": "Hypothesis: Issuer_KOTAK_Degradation (confidence=0.85, source=heuristic). Degraded issuer detected; proposing reroute from KOTAK.",
+      "executed": true,
+      "message": "Executed: reroute target=KOTAK",
+      "ts": 1769880609.4731708
+    },
+    {
+      "action_type": "reroute",
+      "target": "ICICI",
+      "risk_score": 0.363,
+      "reason": "Reroute traffic from degraded issuer ICICI",
+      "reasoning": "Hypothesis: Issuer_ICICI_Degradation (confidence=0.85, source=heuristic). Degraded issuer detected; proposing reroute from ICICI.",
+      "executed": true,
+      "message": "Executed: reroute target=ICICI",
+      "ts": 1769880617.4219303
+    },
+    {
+      "action_type": "reroute",
+      "target": "SBI",
+      "risk_score": 0.363,
+      "reason": "Reroute traffic from degraded issuer SBI",
+      "reasoning": "Hypothesis: Issuer_SBI_Degradation (confidence=0.85, source=heuristic). Degraded issuer detected; proposing reroute from SBI.",
+      "executed": true,
+      "message": "Executed: reroute target=SBI",
+      "ts": 1769880621.6630793
+    },
+    {
+      "action_type": "reroute",
+      "target": "SBI",
+      "risk_score": 0.363,
+      "reason": "Reroute traffic from degraded issuer SBI",
+      "reasoning": "Hypothesis: Issuer_SBI_Degradation (confidence=0.85, source=heuristic). Degraded issuer detected; proposing reroute from SBI.",
+      "executed": true,
+      "message": "Executed: reroute target=SBI",
+      "ts": 1769880625.4307277
+    },
+    {
+      "action_type": "reroute",
+      "target": "SBI",
+      "risk_score": 0.363,
+      "reason": "Reroute traffic from degraded issuer SBI",
+      "reasoning": "Hypothesis: Issuer_SBI_Degradation (confidence=0.85, source=heuristic). Degraded issuer detected; proposing reroute from SBI.",
+      "executed": true,
+      "message": "Executed: reroute target=SBI",
+      "ts": 1769880629.3653626
+    },
+    {
+      "action_type": "reroute",
+      "target": "SBI",
+      "risk_score": 0.363,
+      "reason": "Reroute traffic from degraded issuer SBI",
+      "reasoning": "Hypothesis: Issuer_SBI_Degradation (confidence=0.85, source=heuristic). Degraded issuer detected; proposing reroute from SBI.",
+      "executed": true,
+      "message": "Executed: reroute target=SBI",
+      "ts": 1769880633.087851
+    },
+    {
+      "action_type": "reroute",
+      "target": "SBI",
+      "risk_score": 0.363,
+      "reason": "Reroute traffic from degraded issuer SBI",
+      "reasoning": "Hypothesis: Issuer_SBI_Degradation (confidence=0.85, source=heuristic). Degraded issuer detected; proposing reroute from SBI.",
+      "executed": true,
+      "message": "Executed: reroute target=SBI",
+      "ts": 1769880651.261605
+    },
+    {
+      "action_type": "reroute",
+      "target": "SBI",
+      "risk_score": 0.363,
+      "reason": "Reroute traffic from degraded issuer SBI",
+      "reasoning": "Hypothesis: Issuer_SBI_Degradation (confidence=0.85, source=heuristic). Degraded issuer detected; proposing reroute from SBI.",
+      "executed": true,
+      "message": "Executed: reroute target=SBI",
+      "ts": 1769880671.7091126
+    },
+    {
+      "action_type": "reroute",
+      "target": "SBI",
+      "risk_score": 0.363,
+      "reason": "Reroute traffic from degraded issuer SBI",
+      "reasoning": "Hypothesis: Issuer_SBI_Degradation (confidence=0.85, source=heuristic). Degraded issuer detected; proposing reroute from SBI.",
+      "executed": true,
+      "message": "Executed: reroute target=SBI",
+      "ts": 1769880685.8693116
+    },
+    {
+      "action_type": "reroute",
+      "target": "SBI",
+      "risk_score": 0.363,
+      "reason": "Reroute traffic from degraded issuer SBI",
+      "reasoning": "Hypothesis: Issuer_SBI_Degradation (confidence=0.85, source=heuristic). Degraded issuer detected; proposing reroute from SBI.",
+      "executed": true,
+      "message": "Executed: reroute target=SBI",
+      "ts": 1769880693.7839737
+    },
+    {
+      "action_type": "reroute",
+      "target": "SBI",
+      "risk_score": 0.363,
+      "reason": "Reroute traffic from degraded issuer SBI",
+      "reasoning": "Hypothesis: Issuer_SBI_Degradation (confidence=0.85, source=heuristic). Degraded issuer detected; proposing reroute from SBI.",
+      "executed": true,
+      "message": "Executed: reroute target=SBI",
+      "ts": 1769880713.4737027
+    }
+  ]
+}

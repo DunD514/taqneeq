@@ -1,0 +1,361 @@
+{
+  "latest": {
+    "cause": "Issuer_SBI_Degradation",
+    "confidence": 0.85,
+    "evidence": "Success rate for SBI dropped to 60.9% P95 latency 928 ms",
+    "source": "heuristic",
+    "ts": 1769880713.4737027
+  },
+  "history": [
+    {
+      "cause": "Issuer_SBI_Degradation",
+      "confidence": 0.85,
+      "evidence": "Success rate for SBI dropped to 67.3% P95 latency 839 ms",
+      "source": "heuristic",
+      "ts": 1769880261.511696
+    },
+    {
+      "cause": "Issuer_SBI_Degradation",
+      "confidence": 0.85,
+      "evidence": "Success rate for SBI dropped to 59.2% P95 latency 836 ms",
+      "source": "heuristic",
+      "ts": 1769880270.1167479
+    },
+    {
+      "cause": "Issuer_SBI_Degradation",
+      "confidence": 0.85,
+      "evidence": "Success rate for SBI dropped to 59.1% P95 latency 849 ms",
+      "source": "heuristic",
+      "ts": 1769880278.0781543
+    },
+    {
+      "cause": "Issuer_SBI_Degradation",
+      "confidence": 0.85,
+      "evidence": "Success rate for SBI dropped to 46.5% P95 latency 879 ms",
+      "source": "heuristic",
+      "ts": 1769880287.398335
+    },
+    {
+      "cause": "Issuer_SBI_Degradation",
+      "confidence": 0.85,
+      "evidence": "Success rate for SBI dropped to 35.1% P95 latency 879 ms",
+      "source": "heuristic",
+      "ts": 1769880307.872766
+    },
+    {
+      "cause": "Issuer_SBI_Degradation",
+      "confidence": 0.85,
+      "evidence": "Success rate for SBI dropped to 31.6% P95 latency 867 ms",
+      "source": "heuristic",
+      "ts": 1769880329.095964
+    },
+    {
+      "cause": "Issuer_SBI_Degradation",
+      "confidence": 0.85,
+      "evidence": "Success rate for SBI dropped to 25.6% P95 latency 892 ms",
+      "source": "heuristic",
+      "ts": 1769880347.2251027
+    },
+    {
+      "cause": "Issuer_SBI_Degradation",
+      "confidence": 0.85,
+      "evidence": "Success rate for SBI dropped to 30.8% P95 latency 925 ms",
+      "source": "heuristic",
+      "ts": 1769880355.311359
+    },
+    {
+      "cause": "Issuer_SBI_Degradation",
+      "confidence": 0.85,
+      "evidence": "Success rate for SBI dropped to 27.9% P95 latency 961 ms",
+      "source": "heuristic",
+      "ts": 1769880363.5124946
+    },
+    {
+      "cause": "Issuer_SBI_Degradation",
+      "confidence": 0.85,
+      "evidence": "Success rate for SBI dropped to 26.5% P95 latency 1105 ms",
+      "source": "heuristic",
+      "ts": 1769880368.525885
+    },
+    {
+      "cause": "Issuer_SBI_Degradation",
+      "confidence": 0.85,
+      "evidence": "Success rate for SBI dropped to 44.4% P95 latency 925 ms",
+      "source": "heuristic",
+      "ts": 1769880374.7231395
+    },
+    {
+      "cause": "Issuer_SBI_Degradation",
+      "confidence": 0.85,
+      "evidence": "Success rate for SBI dropped to 50.0% P95 latency 864 ms",
+      "source": "heuristic",
+      "ts": 1769880383.1342072
+    },
+    {
+      "cause": "Issuer_SBI_Degradation",
+      "confidence": 0.85,
+      "evidence": "Success rate for SBI dropped to 57.6% P95 latency 859 ms",
+      "source": "heuristic",
+      "ts": 1769880391.4023097
+    },
+    {
+      "cause": "Issuer_SBI_Degradation",
+      "confidence": 0.85,
+      "evidence": "Success rate for SBI dropped to 59.0% P95 latency 854 ms",
+      "source": "heuristic",
+      "ts": 1769880395.985636
+    },
+    {
+      "cause": "Issuer_SBI_Degradation",
+      "confidence": 0.85,
+      "evidence": "Success rate for SBI dropped to 61.0% P95 latency 971 ms",
+      "source": "heuristic",
+      "ts": 1769880402.0671535
+    },
+    {
+      "cause": "Issuer_SBI_Degradation",
+      "confidence": 0.85,
+      "evidence": "Success rate for SBI dropped to 51.3% P95 latency 1027 ms",
+      "source": "heuristic",
+      "ts": 1769880410.16459
+    },
+    {
+      "cause": "Issuer_KOTAK_Degradation",
+      "confidence": 0.85,
+      "evidence": "Success rate for KOTAK dropped to 48.5% P95 latency 1033 ms",
+      "source": "heuristic",
+      "ts": 1769880426.6614027
+    },
+    {
+      "cause": "Issuer_KOTAK_Degradation",
+      "confidence": 0.85,
+      "evidence": "Success rate for KOTAK dropped to 51.6% P95 latency 989 ms",
+      "source": "heuristic",
+      "ts": 1769880444.3285296
+    },
+    {
+      "cause": "Issuer_KOTAK_Degradation",
+      "confidence": 0.85,
+      "evidence": "Success rate for KOTAK dropped to 37.5% P95 latency 915 ms",
+      "source": "heuristic",
+      "ts": 1769880452.4737155
+    },
+    {
+      "cause": "Issuer_KOTAK_Degradation",
+      "confidence": 0.85,
+      "evidence": "Success rate for KOTAK dropped to 50.0% P95 latency 924 ms",
+      "source": "heuristic",
+      "ts": 1769880460.522354
+    },
+    {
+      "cause": "Issuer_SBI_Degradation",
+      "confidence": 0.85,
+      "evidence": "Success rate for SBI dropped to 50.0% P95 latency 953 ms",
+      "source": "heuristic",
+      "ts": 1769880468.920444
+    },
+    {
+      "cause": "Issuer_SBI_Degradation",
+      "confidence": 0.85,
+      "evidence": "Success rate for SBI dropped to 37.8% P95 latency 955 ms",
+      "source": "heuristic",
+      "ts": 1769880477.1092894
+    },
+    {
+      "cause": "Issuer_SBI_Degradation",
+      "confidence": 0.85,
+      "evidence": "Success rate for SBI dropped to 52.6% P95 latency 955 ms",
+      "source": "heuristic",
+      "ts": 1769880485.23668
+    },
+    {
+      "cause": "Issuer_SBI_Degradation",
+      "confidence": 0.85,
+      "evidence": "Success rate for SBI dropped to 53.7% P95 latency 1091 ms",
+      "source": "heuristic",
+      "ts": 1769880493.8890412
+    },
+    {
+      "cause": "Issuer_KOTAK_Degradation",
+      "confidence": 0.85,
+      "evidence": "Success rate for KOTAK dropped to 53.5% P95 latency 955 ms",
+      "source": "heuristic",
+      "ts": 1769880502.1692388
+    },
+    {
+      "cause": "Issuer_KOTAK_Degradation",
+      "confidence": 0.85,
+      "evidence": "Success rate for KOTAK dropped to 55.8% P95 latency 1028 ms",
+      "source": "heuristic",
+      "ts": 1769880510.441503
+    },
+    {
+      "cause": "Issuer_KOTAK_Degradation",
+      "confidence": 0.85,
+      "evidence": "Success rate for KOTAK dropped to 51.2% P95 latency 1091 ms",
+      "source": "heuristic",
+      "ts": 1769880518.645306
+    },
+    {
+      "cause": "Issuer_KOTAK_Degradation",
+      "confidence": 0.85,
+      "evidence": "Success rate for KOTAK dropped to 57.1% P95 latency 1152 ms",
+      "source": "heuristic",
+      "ts": 1769880526.7282305
+    },
+    {
+      "cause": "Latency_Spike",
+      "confidence": 0.75,
+      "evidence": "P95 latency 1096 ms",
+      "source": "heuristic",
+      "ts": 1769880530.5495334
+    },
+    {
+      "cause": "Issuer_SBI_Degradation",
+      "confidence": 0.85,
+      "evidence": "Success rate for SBI dropped to 70.5% P95 latency 906 ms",
+      "source": "heuristic",
+      "ts": 1769880535.2794473
+    },
+    {
+      "cause": "Issuer_KOTAK_Degradation",
+      "confidence": 0.85,
+      "evidence": "Success rate for KOTAK dropped to 55.8% P95 latency 1049 ms",
+      "source": "heuristic",
+      "ts": 1769880543.2082374
+    },
+    {
+      "cause": "Issuer_KOTAK_Degradation",
+      "confidence": 0.85,
+      "evidence": "Success rate for KOTAK dropped to 52.2% P95 latency 1044 ms",
+      "source": "heuristic",
+      "ts": 1769880551.2879608
+    },
+    {
+      "cause": "Issuer_KOTAK_Degradation",
+      "confidence": 0.85,
+      "evidence": "Success rate for KOTAK dropped to 36.4% P95 latency 1065 ms",
+      "source": "heuristic",
+      "ts": 1769880559.3343701
+    },
+    {
+      "cause": "Issuer_KOTAK_Degradation",
+      "confidence": 0.85,
+      "evidence": "Success rate for KOTAK dropped to 32.7% P95 latency 1136 ms",
+      "source": "heuristic",
+      "ts": 1769880567.8588212
+    },
+    {
+      "cause": "Issuer_KOTAK_Degradation",
+      "confidence": 0.85,
+      "evidence": "Success rate for KOTAK dropped to 42.6% P95 latency 1036 ms",
+      "source": "heuristic",
+      "ts": 1769880576.031697
+    },
+    {
+      "cause": "Issuer_KOTAK_Degradation",
+      "confidence": 0.85,
+      "evidence": "Success rate for KOTAK dropped to 32.6% P95 latency 1014 ms",
+      "source": "heuristic",
+      "ts": 1769880584.4317656
+    },
+    {
+      "cause": "Issuer_KOTAK_Degradation",
+      "confidence": 0.85,
+      "evidence": "Success rate for KOTAK dropped to 28.9% P95 latency 895 ms",
+      "source": "heuristic",
+      "ts": 1769880592.6354074
+    },
+    {
+      "cause": "Issuer_KOTAK_Degradation",
+      "confidence": 0.85,
+      "evidence": "Success rate for KOTAK dropped to 39.5% P95 latency 827 ms",
+      "source": "heuristic",
+      "ts": 1769880601.1167104
+    },
+    {
+      "cause": "Issuer_KOTAK_Degradation",
+      "confidence": 0.85,
+      "evidence": "Success rate for KOTAK dropped to 48.8% P95 latency 916 ms",
+      "source": "heuristic",
+      "ts": 1769880604.7350967
+    },
+    {
+      "cause": "Issuer_KOTAK_Degradation",
+      "confidence": 0.85,
+      "evidence": "Success rate for KOTAK dropped to 65.0% P95 latency 863 ms",
+      "source": "heuristic",
+      "ts": 1769880609.4731708
+    },
+    {
+      "cause": "Issuer_ICICI_Degradation",
+      "confidence": 0.85,
+      "evidence": "Success rate for ICICI dropped to 71.4% P95 latency 880 ms",
+      "source": "heuristic",
+      "ts": 1769880617.4219303
+    },
+    {
+      "cause": "Issuer_SBI_Degradation",
+      "confidence": 0.85,
+      "evidence": "Success rate for SBI dropped to 58.1% P95 latency 863 ms",
+      "source": "heuristic",
+      "ts": 1769880621.6630793
+    },
+    {
+      "cause": "Issuer_SBI_Degradation",
+      "confidence": 0.85,
+      "evidence": "Success rate for SBI dropped to 55.0% P95 latency 853 ms",
+      "source": "heuristic",
+      "ts": 1769880625.4307277
+    },
+    {
+      "cause": "Issuer_SBI_Degradation",
+      "confidence": 0.85,
+      "evidence": "Success rate for SBI dropped to 53.3% P95 latency 853 ms",
+      "source": "heuristic",
+      "ts": 1769880629.3653626
+    },
+    {
+      "cause": "Issuer_SBI_Degradation",
+      "confidence": 0.85,
+      "evidence": "Success rate for SBI dropped to 47.7% P95 latency 851 ms",
+      "source": "heuristic",
+      "ts": 1769880633.087851
+    },
+    {
+      "cause": "Issuer_SBI_Degradation",
+      "confidence": 0.85,
+      "evidence": "Success rate for SBI dropped to 53.5% P95 latency 897 ms",
+      "source": "heuristic",
+      "ts": 1769880651.261605
+    },
+    {
+      "cause": "Issuer_SBI_Degradation",
+      "confidence": 0.85,
+      "evidence": "Success rate for SBI dropped to 58.3% P95 latency 873 ms",
+      "source": "heuristic",
+      "ts": 1769880671.7091126
+    },
+    {
+      "cause": "Issuer_SBI_Degradation",
+      "confidence": 0.85,
+      "evidence": "Success rate for SBI dropped to 57.4% P95 latency 907 ms",
+      "source": "heuristic",
+      "ts": 1769880685.8693116
+    },
+    {
+      "cause": "Issuer_SBI_Degradation",
+      "confidence": 0.85,
+      "evidence": "Success rate for SBI dropped to 53.5% P95 latency 928 ms",
+      "source": "heuristic",
+      "ts": 1769880693.7839737
+    },
+    {
+      "cause": "Issuer_SBI_Degradation",
+      "confidence": 0.85,
+      "evidence": "Success rate for SBI dropped to 60.9% P95 latency 928 ms",
+      "source": "heuristic",
+      "ts": 1769880713.4737027
+    }
+  ]
+}
